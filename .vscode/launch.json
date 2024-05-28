@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RiwimoodleApplication<riwimoodle>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "io.riwi.riwimoodle.RiwimoodleApplication",
+            "projectName": "riwimoodle",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
